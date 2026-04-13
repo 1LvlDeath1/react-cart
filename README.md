@@ -6,12 +6,9 @@
 
 ## 🚀 Как запустить 
 
-git clone https://github.com/1LvlDeath1/react-cart.git или vercel https://react-cart-dusky-eta.vercel.app
+ https://react-cart-dusky-eta.vercel.app
 
-cd react-cart
-```bash
-npm install
-npm start
+ 
 ⚙️ Функционал
 Добавление товаров
 Удаление товаров
