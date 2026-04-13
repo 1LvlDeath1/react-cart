@@ -7,6 +7,7 @@
 ## 🚀 Как запустить
 
 git clone https://github.com/1LvlDeath1/react-cart.git
+
 cd react-cart
 ```bash
 npm install
