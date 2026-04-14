@@ -6,7 +6,19 @@
 
 ## 🚀 Как запустить 
 
- https://react-cart-dusky-eta.vercel.app
+ # Как запустить проект
+
+## 1. Клонируем репозиторий
+git clone https://github.com/1LvlDeath1/react-cart
+
+## 2. Переходим в папку
+cd repo-name
+
+## 3. Устанавливаем зависимости
+npm install
+
+## 4. Запускаем проект
+npm run dev
 
  
 ⚙️ Функционал
