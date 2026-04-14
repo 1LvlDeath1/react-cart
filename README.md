@@ -12,7 +12,7 @@
 git clone https://github.com/1LvlDeath1/react-cart
 
 ## 2. Переходим в папку
-cd repo-name
+cd react-cart
 
 ## 3. Устанавливаем зависимости
 npm install
