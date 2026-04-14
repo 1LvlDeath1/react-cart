@@ -18,7 +18,7 @@ cd react-cart
 npm install
 
 ## 4. Запускаем проект
-npm run dev
+npm start
 
  
 ⚙️ Функционал
